@@ -21,7 +21,8 @@ Bar Chart API: Return price ranges and the number of items for the selected mont
 Ranges: 0-100, 101-200, ..., 901-above.
 Pie Chart API: Find unique categories and their item counts for the selected month.
 Combined API: Merge data from the above APIs into a single response.
-#Frontend Tasks
+
+# Frontend Tasks
 Transactions Table:
 
 Display transactions using the listing API.
